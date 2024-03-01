@@ -1,4 +1,4 @@
 _extends: manjaro-contrib/.github
 repository:
   homepage: https://aur.archlinux.org/swaylock-effects.git
-  topics: arch, package, any
+
